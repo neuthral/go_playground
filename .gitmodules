@@ -1,0 +1,3 @@
+[submodule "go_server_ui"]
+	path = go_server_ui
+	url = git@github.com:neuthral/go_server_ui.git
